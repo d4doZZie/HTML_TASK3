@@ -1,0 +1,157 @@
+
+body {
+background-color: #022566;
+font-family: poppins,sans-serif;
+font-size: 16px;
+line-height: 24px;
+color: black;
+}
+
+img{
+    display: block;
+    margin-left:;
+    margin-right: auto;
+    padding-top: 50px;
+    padding-bottom: 35px;
+	
+}
+
+.dozz{
+	width: 380px;
+	height: 30px;
+	text-align: center;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+	font-size: 25px;
+    color: ghostwhite;
+	margin: auto;
+}
+
+.intro1{
+   font-family: fantasy;
+    background-color: azure;
+    padding: 20px;
+    
+}
+
+h5{
+	font-size:15px;
+	margin-left: 5px;
+	font-weight: em;
+    color: floralwhite;
+	
+}
+li{
+font-size:15px;
+	margin-left: 5px;
+	font-weight: em;
+    color: floralwhite;
+}
+h4{
+	font-size:12px;
+	margin-left: 5px;
+	font-weight: bold;
+    color: floralwhite;
+} 
+    
+h3{
+	font-size:20px;
+	margin-left: 5px;
+	font-weight: bold;
+    color: goldenrod;
+    text-align: center;
+}
+
+   main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    font-family:  'Segoe UI', Tahoma, sans-serif;;
+    }
+
+.card {
+display: flex;
+justify-content: center;
+flex-direction: column;
+min-height: auto;
+width: 65%;
+background-color:white;
+border-radius: 15px;
+
+padding: 13px;
+}
+
+input{
+    color: rgb(170, 80, 80);
+    background-color: #F5F5F5;
+    border-radius: 5px;
+    padding: 12px;
+    width: 88%;
+	border: none;
+}
+
+wrapper{
+	width: 375px;
+	height: 80px;
+	
+	
+}
+
+
+.card1 {
+display: flex;
+justify-content: center;
+flex-direction: column;
+min-height: auto;
+width:26%;
+background-color:white;
+border-radius: 12px;
+
+padding: 13px;
+}
+
+.butt{
+	background: rgb(82, 148, 51);
+	width: 98%;
+	height: 40px;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	border: none;
+	border-radius: 10px; 
+}
+
+.container {
+display: flex;
+justify-content: left;
+flex-direction: column;
+min-height: auto;
+width: 65%;
+background-color:white;
+border-radius: 15px;
+padding: 13px;
+    
+
+}
+.bio{
+justify-content: center;
+display: flex;
+flex-direction: column;
+min-height: auto;
+width:26%;
+background-color:white;
+border-radius: 10px;
+padding: 15px;
+
+}
+
+.list{
+justify-content: auto;
+flex-direction: row;
+min-height: auto;
+width:88%;
+background-color:rgb(82, 148, 51);;
+border-radius: 7px;
+padding: 20px;
+}
+
